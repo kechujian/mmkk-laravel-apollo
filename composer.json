@@ -6,7 +6,9 @@
             "email": "476065255@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "kechujian/apollo-client": "^0.1.2"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "app/",
