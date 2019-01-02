@@ -1,0 +1,16 @@
+{
+    "name": "kechujian/mmkk-laravel-apollo",
+    "authors": [
+        {
+            "name": "kcj",
+            "email": "476065255@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Aex\\Packagetest\\": "packages/kechujian/mmkk-laravel-apollo/src/"
+        }
+    }
+}
